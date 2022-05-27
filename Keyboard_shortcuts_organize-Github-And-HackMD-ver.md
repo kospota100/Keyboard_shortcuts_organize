@@ -120,20 +120,35 @@
     - `Win` + `M`  將所有視窗最小化
     
     - `Win` + `S`  開啟「搜尋」
+    
+    - `Win` + `T`  在工作列的應用程式間切換
    
     - `Win` + `X`  開啟「開始功能表右鍵選單」
-   
+
+
     - `Win` + `Shift` + `M`  將最小化的視窗還原
-   
+    
+    - `Win` + `Shift` + `S`  開啟「剪取與繪圖」（Windows 10 R的剪取工具）
+    
+    - `Win` + `Alt` + `R`  開始螢幕錄影
+
+
     - `Win` + `Space`  切換輸入法
    
     - `Win` + `Tab`  開啟「工作檢視」
     
+    - `Win` + `PrtSc`  擷取螢幕畫面並複製到剪貼簿
+
+    - `Win` + `Pause`  開啟「設定」裡的「關於」頁面（系統資訊）
+
+
+    - `Ctrl` + `Shift` + `Esc`  開啟「工作管理員」
+
+    - `Ctrl` + `Alt` + `Delete` <u>**我不知道他叫什麼**</u>
+
     - `Ctrl` + `Esc`  開啟「開始功能表」
     
-    - `Ctrl` + `Shift` + `Esc`  開啟「工作管理員」
     
-    - `Ctrl` + `Alt` + `Delete` <u>**我不知道他叫什麼**</u>
 
 
 3. 檔案總管
@@ -188,16 +203,20 @@
 
     - `Alt` + `F` + `B`  新增新容器分頁
 
-    - `Ctrl` + `Shift` + `P`  開啟新隱私視窗，這部分跟 Chrome 不一樣。
+    - `Ctrl` + `Shift` + `P`  開啟新隱私視窗，這部分跟 Chrome 不一樣
 
     - 在分頁欄上按住 `Ctrl` 並 `拖曳到分頁間的間隙` 可以複製分頁
+    
+    - 在搜尋欄搜尋時，輸入關鍵字後按下 `Shift` + `Enter` 會在另一個新視窗顯示搜尋結果
 
 
 2. 其他
 
    - `Ctrl` + `Shift` + `A`  開啟「附加元件管理員」
 
-   - `Ctrl` + `Shift` + `C`  開始挑選頁面中的元素（DevTools）
+   - `Ctrl` + `Shift` + `C`  開啟檢測器（Elements），並開始挑選頁面中的元素
+   
+   - `Ctrl` + `Shift` + `K`  開啟主控台（Console）
 
    - `Ctrl` + `Shift` + `H`  開啟「歷史紀錄」
 
@@ -214,6 +233,10 @@
    
    - `Ctrl` + `T`  開啟新視窗（這兩個應該可以不用講吧
    
+   - `Ctrl` + `PgUp`  似乎等於 `Home` 鍵
+   
+   - `Ctrl` + `PgDn`  似乎等於 `End` 鍵
+      
    - `F6`  切換至網址列
    
    - `F9`  開啟 / 關閉閱讀模式
@@ -256,9 +279,9 @@
 
 1. YouTube
 
-  - `Shift` + `>` 加快影片播放速度
+    - `Shift` + `>` 加快影片播放速度
 
-  - `Shift` + `<` 減緩影片播放速度
+    - `Shift` + `<` 減緩影片播放速度
 
 ---
 
@@ -268,7 +291,7 @@
 
 - `Ctrl` + `P`  快速開啟檔案
 
-- `Ctrl` + `K` + `V`  在側邊開啟 Markdown 檔案預覽
+- `Ctrl` + `K` `V`  在側邊開啟 Markdown 檔案預覽
 
 - `Ctrl` + `,`  開啟設定
 
@@ -302,6 +325,54 @@
 
 ---
 
+#### 7. 筆記架構圖與更新紀錄
+
+筆記架構
+```
+0. 編輯說明
+
+00. 格式說明
+
+1. Windows / Office sofeware
+    
+    1. Windows 快捷鍵
+
+        1. 多工
+
+        2. 輸入法
+
+    2. Win 快捷鍵、其他
+
+    3. 檔案總管
+
+    4. Office 軟體
+
+        1. Microsoft Word
+
+        2. Microsoft Excel
+
+2. Firefox
+
+    1. 分頁
+    
+    2. 其他
+
+3. Discord
+
+4. Website (ex: YouTube)
+
+    1. YouTube
+
+5. Visual Studio Code (VSCode)
+
+6. 其他應用程式
+
+    1. VLC media player
+
+7. 筆記架構圖與更新紀錄
+```
+
+更新紀錄
 ```
 更新紀錄 Update Logs
 22/03/01
@@ -336,10 +407,26 @@
 * 套用「創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款」授權。
 
 22/05/08 HackMD ver.
-* 在「Win 快捷鍵、其他」子條目下新增了一些內容。
+* 在 Windows / Office sofeware 主條目下的「Win 快捷鍵、其他」子條目下新增了一些內容。
 * 新增「其他應用程式」條目。
-* Pull 了一個新的版本至 Github。
-# Github 編輯測試
+* Push 了一個新的版本至 Github。
+
+22/05/09 HackMD ver.
+* 以後還是先以 HackMD 的版本為主好了，不要用 Github 或是 VSCode 編輯。
+* 在 Firefox 主條目下的「其他」子條目修改及新增了一些內容。
+
+22/05/17 HackMD ver.
+* 在 Firefox 主條目下的「分頁」子條目修改及新增了一些內容。
+* 在 Windows / Office software 主條目下的「Win 快捷鍵、其他」子條目新增了一些內容。
+* 稍微調整了「Win 快捷鍵、其他」子條目的排列方式
+* 找時間來在更新紀錄上面加一個筆記架構圖好了。
+
+22/05/21 HackMD ver.
+* 在 Firefox 主條目下的「其他」子條目修改及新增了一些內容。
+
+22/05/27 HackMD ver.
+* 新增了「筆記架構圖與更新紀錄」主條目以及其下的筆記架構。
+* Push 了一個新版本。
 ```
 
 ---
@@ -350,4 +437,4 @@
 
 作者 Author: tako#9440  (Discord User ID: 416184145212080130)  
 協作者 Co-Author: example01, example02  
-更新時間 Update Date: 2022/05/08
+更新時間 Update Date: 2022/05/17
