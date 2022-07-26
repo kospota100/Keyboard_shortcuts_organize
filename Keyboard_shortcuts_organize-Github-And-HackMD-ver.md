@@ -74,6 +74,12 @@
 
 ---
 
+#### 000. Table of Contents
+
+[TOC]
+
+---
+
 #### 1. Windows / Office sofeware
 
 1. Windows 快捷鍵
@@ -279,9 +285,11 @@
 
 1. YouTube
 
-    - `Shift` + `>` 加快影片播放速度
+    - `Shift` + `>`  加快影片播放速度
 
-    - `Shift` + `<` 減緩影片播放速度
+    - `Shift` + `<`  減緩影片播放速度
+    
+    - `Shift` + `/`  開啟快捷鍵說明
 
 ---
 
@@ -332,6 +340,8 @@
 0. 編輯說明
 
 00. 格式說明
+
+000. Table of Contents
 
 1. Windows / Office sofeware
     
@@ -427,6 +437,17 @@
 22/05/27 HackMD ver.
 * 新增了「筆記架構圖與更新紀錄」主條目以及其下的筆記架構。
 * Push 了一個新版本。
+
+22/05/28 HackMD ver.
+* Website (ex: YouTube) 條目下的小更新。
+
+22/07/02 HackMD ver.
+* 在筆記的前面加入了一個目錄 (TOC) 。
+
+22/07/26 HackMD ver.
+* Push 了 07/22 的版本到了 Github。
+* 在這個版本後會分出一個公開檢視的版本，名稱預計會是「冷門鍵盤快捷鍵整理 0726 HackMD publish ver.」。
+  公開版和共編版的同步問題先暫時擱著。
 ```
 
 ---
@@ -437,4 +458,4 @@
 
 作者 Author: tako#9440  (Discord User ID: 416184145212080130)  
 協作者 Co-Author: example01, example02  
-更新時間 Update Date: 2022/05/17
+更新時間 Update Date: 2022/07/26
