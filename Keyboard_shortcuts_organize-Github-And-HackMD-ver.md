@@ -89,6 +89,8 @@
       - `Win` + `Tab`  開啟「工作檢視」
      
       - `Alt` + `Tab`  在當前桌面開啟的應用程式中切換
+      
+      - `Ctrl` + `Alt` + `Tab`  檢視目前桌面開啟的視窗
      
       - `Win` + `Ctrl` + `→`  切換到右邊的下一個桌面
      
@@ -347,6 +349,8 @@
 
 - `Alt` + `Shift` + `PgDn`  向下複製一行
 
+- `Alt` + `Shift` + `F`  將選取的 json 內容自動編排格式
+
 ---
 
 #### 6. 其他應用程式
@@ -488,6 +492,11 @@
 * 修正 Discord 主條目下的錯誤。
 * 刪除以 `PgUp` 和 `PgDn` 取代方向鍵 `↑` 或方向鍵 `↓` 的格式規範。
 * Push 07/28 版本至 Github。
+
+22/12/27 HackMD ver.
+* 在 Windows / Office sofeware 主條目下的「多工」子條目修改及新增了一些內容。
+* 在 Visual Studio Code (VSCode) 條目修改及新增了一些內容。
+* Push 12/27 版本至 Github。
 ```
 
 ---
